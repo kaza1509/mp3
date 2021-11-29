@@ -60,6 +60,8 @@ li {
 .container-top:hover img{
     -webkit-transform: scale(1.2);
     transform: scale(1.2);
+    opacity: 0.7;
+    /* filter: grayscale(30%); */
 }
 
 .container-top:hover > ul.icon {
